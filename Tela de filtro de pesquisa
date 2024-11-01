@@ -1,0 +1,38 @@
+Mapa:
+Descrição: O mapa mostrará eventos que estão acontecendo ou irá acontecer.
+
+Texto não funcional : 
+descrição :Saiba Mais 
+
+Texto não funcional :
+descrição: Data e Hora
+
+Texto não funcional:
+descrição:Localização
+
+Botões de filtragem:
+Descrição: data que os eventos irá acontecer com opções de selecionar a filtragem e procurar evento que acontecerá  opções de filtragem : “hoje,amanhã ou essa semana.’’
+Botão calendário:
+Descrição: Filtrar por data especifica no mês.
+Botão de localização:
+Descrião: para selecionar a região que o usuário quer filtra.
+ 
+Botão de cancelar:
+Descrição: Cancela toda a filtragem e volta para tela de busca sem filtrar nada.
+ 
+Botão de confirmar: Volta para tela de busca agora aparecerá no mapa eventos e também aparecerá ao buscar algum evento especifico que irá acontecer de acordo com a filtragem.
+ 
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+ 
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como titulo encontre seu rolê.
+ 
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+ 
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+ 
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde consiguira ver os detalhes como horario,endereço e a data.
