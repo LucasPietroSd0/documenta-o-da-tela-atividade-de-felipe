@@ -1,0 +1,45 @@
+tela descrição do evento:
+
+Botão de voltar
+Descrição: Ao clicar volta para tela anterior de onde escolheu o evento.
+ 
+Texto não funcional:
+descrição :Nome do app Hoje é aonde?
+
+Botão de carrinho
+Descrição: irá direcionar para o carrinho de compra.
+ 
+Imagem não funcional estatica:
+descrição:mostrará a foto do evento. 
+
+Botão de salvar
+Descrição: salva em favoritos os eventos de interesse.
+ 
+Titulo do evento não funcional:
+Descrição: irá conter informações como titulo horário local
+
+Texto não funcional:
+descrição: com um icone de relogio ao lado esquerdo mostrará o dia e a hora do evento.
+com o icone de localização ao lado esquerdo mostrará o endereço ou local do evento.
+
+Texto não funcional descrição do evento:
+descrição: irá conter textos de serviço como subtitulo e embaixo o dia e a data o mês e o ano e a duração mostrar em minutos ou em horas.
+
+
+Botão de ver ingresso:
+Descrição Ao clicar o usuário irá ser direcionado para compra de ingresse.
+ 
+Botão Home:
+Descrição: Ao clicar o usuário volta para tela inicial a home.
+ 
+Botão Explorar:
+Descrição: Ao clicar o usuário é direcionado para tela de busca que esta como titulo encontre seu rolê.
+ 
+Botão coração:
+Descrição: Ao clicar o usuário é direcionado para tela de favoritos onde ele salvou os eventos do seu interesse.
+ 
+Botão de perfil:
+Descrição: Ao clicar o usuário é direcionado para tela de perfil.
+ 
+Botão de carteira:
+Descrição: Ao clicar o usuário é direcionado para tela de ingressos comprados onde consiguira ver os detalhes como horario,endereço e a data.
